@@ -1,4 +1,4 @@
-package com.reactornetty.leakreproducer.controller
+package com.reactornetty.leakreproducer
 
 import com.reactornetty.leakreproducer.model.Data
 import org.springframework.boot.context.event.ApplicationReadyEvent

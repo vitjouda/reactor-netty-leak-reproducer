@@ -1,5 +1,3 @@
-package com.reactornetty.leakreproducer
-
 import com.fasterxml.jackson.annotation.JsonInclude
 import com.fasterxml.jackson.databind.SerializationFeature
 import io.ktor.serialization.jackson.*
